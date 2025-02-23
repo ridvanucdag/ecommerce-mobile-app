@@ -1,0 +1,100 @@
+{
+  "home": {
+    "title": "Ana Sayfa",
+    "welcomeMessage": "Kahve dükkanımıza hoş geldiniz!",
+    "advantageousProducts": "Popüler Avantajlı Ürünler",
+    "bestSellers": "En Çok Satılanlar",
+    "influencer": "İnfluencer Paylaşımları",
+    "flashCampaings": "Flash Kampanyalar",
+    "featuredProducts": "Öne Çıkan Ürünler"
+  },
+  "favorite": {
+    "title": "Favoriler",
+    "favoriteCoffees": "Favori Kahvelerim",
+    "emptyMessage": "Favori ürün bulunamadı.",
+    "added": "Kahve favorilere eklendi.",
+    "removed": "Kahve favorilerden çıkarıldı."
+  },
+  "basket": {
+    "title": "Sepetim",
+    "emptyMessage": "Sepetinizde ürün yok.",
+    "delivery": "Sana Gelsin Adresim",
+    "cartSummary": "Sepet Özeti",
+    "cartFee": "Sepet Ücreti:",
+    "courierFee": "Kurye Ücreti:",
+    "discount": "İndirim:",
+    "totalFee": "Toplam Ücret:",
+    "completeOrder": "Siparişi Tamamla",
+    "removeItem": "Kahve sepetten çıkarıldı.",
+    "checkout": "Ödeme İşlemini Tamamla",
+    "recommenderTitle": "Sana Özel"
+  },
+  "profile": {
+    "title": "Profil",
+    "accountInfo": "Hesap Bilgileri",
+    "myOrders": "Siparişlerim",
+    "addressBook": "Adres Defteri",
+    "paymentMethods": "Ödeme Yöntemleri",
+    "faq": "Sıkça Sorulan Sorular",
+    "settings": "Ayarlar",
+    "logout": "Çıkış Yap"
+  },
+  "filter": {
+    "desc": "Sıralama",
+    "price": "En Düşük Fiyat",
+    "priceDesc": "En Yüksek Fiyat",
+    "alphabet": "Alfabetik Sıralama (A-Z)",
+    "alphabetz": "Alfabetik Sıralama (Z-A)",
+    "product": "Ürün",
+    "all": "Hepsi",
+    "evaluationScore": "Değerlendirme Puanı",
+    "star": "yıldız ve üzeri",
+    "minimumAmount": "Minimum Sepet Tutarı",
+    "button": "Filtreyi Uygula"
+  },
+  "search": {
+    "title": "Arama",
+    "product": "Ürün",
+    "placeholder": "Ürün veya marka ara",
+    "empty": "Aramanızla eşleşen ürün bulunamadı.",
+    "empty2": "Ürün bulunamadı.",
+    "loading": "Yükleniyor.."
+  },
+  "productDetails": {
+    "title": "Ürün Detayı",
+    "description": "Açıklama",
+    "hide": "Gizle",
+    "showAll": "Tümünü Göster",
+    "addtoCart": "Sepete Ekle",
+    "addedtoCart": "sepete eklendi!",
+    "comment": "Yorum",
+    "star": "Yıldız",
+    "loadMore": "Daha fazla yorum yükle"
+  },
+  "main": {
+    "title1": "En Trend Ürünler Burada!",
+    "description1": "Sana özel fırsatlar, stoklarla sınırlıdır. \nHemen keşfet!",
+    "title2": "Şimdi Al, %50 İndirimle",
+    "description2": "Bu fırsatı kaçırma! Sadece bu hafta geçerli.",
+    "title3": "Yeni Yılın Modası",
+    "description3": "Yılın en şık ürünleri burada seni bekliyor. \nHadi alışveriş yapalım!",
+    "skip": "Atla",
+    "started": "Alışverişe Başlayalım"
+  },
+  "category": {
+    "title": "Kategoriler",
+    "welcome": "Hoş Geldiniz!",
+    "description": "Kahvenizi seçin ve tadını çıkarın",
+    "started": "Başlayalım",
+    "phone": "Telefon",
+    "television": "Televizyon",
+    "homeAppliances": "Ev Aletleri",
+    "shoes": "Ayakkabı",
+    "camera": "Kamera",
+    "computer": "Bilgisayar",
+    "whiteGoods": "Beyaz Eşya"
+  },
+  "general": {
+    "all": "Tümü"
+  }
+}

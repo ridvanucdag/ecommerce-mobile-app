@@ -1,0 +1,100 @@
+{
+  "home": {
+    "title": "Inicio",
+    "welcomeMessage": "¡Bienvenido a nuestra tienda de café!",
+    "advantageousProducts": "Productos Ventajosos Populares",
+    "bestSellers": "Los Más Vendidos",
+    "influencer": "Publicaciones de Influencers",
+    "flashCampaings": "Campañas Flash",
+    "featuredProducts": "Productos Destacados"
+  },
+  "favorite": {
+    "title": "Favoritos",
+    "favoriteCoffees": "Mis Cafés Favoritos",
+    "emptyMessage": "No se encontraron productos favoritos.",
+    "added": "El café se ha añadido a favoritos.",
+    "removed": "El café se ha eliminado de favoritos."
+  },
+  "basket": {
+    "title": "Mi Carrito",
+    "emptyMessage": "No hay productos en tu carrito.",
+    "delivery": "Mi Dirección de Entrega",
+    "cartSummary": "Resumen del Carrito",
+    "cartFee": "Costo del Carrito:",
+    "courierFee": "Costo de Envío:",
+    "discount": "Descuento:",
+    "totalFee": "Costo Total:",
+    "completeOrder": "Completar Pedido",
+    "removeItem": "El café ha sido eliminado del carrito.",
+    "checkout": "Completar Pago",
+    "recommenderTitle": "Para Ti"
+  },
+  "profile": {
+    "title": "Perfil",
+    "accountInfo": "Información de Cuenta",
+    "myOrders": "Mis Pedidos",
+    "addressBook": "Libreta de Direcciones",
+    "paymentMethods": "Métodos de Pago",
+    "faq": "Preguntas Frecuentes",
+    "settings": "Configuraciones",
+    "logout": "Cerrar Sesión"
+  },
+  "filter": {
+    "desc": "Ordenar",
+    "price": "Precio Más Bajo",
+    "priceDesc": "Precio Más Alto",
+    "alphabet": "Orden Alfabético (A-Z)",
+    "alphabetz": "Orden Alfabético (Z-A)",
+    "product": "Producto",
+    "all": "Todos",
+    "evaluationScore": "Puntuación de Evaluación",
+    "star": "estrella y superior",
+    "minimumAmount": "Monto Mínimo del Carrito",
+    "button": "Aplicar Filtro"
+  },
+  "search": {
+    "title": "Buscar",
+    "product": "Producto",
+    "placeholder": "Buscar producto o marca",
+    "empty": "No se encontraron productos que coincidan con tu búsqueda.",
+    "empty2": "Producto no encontrado.",
+    "loading": "Cargando.."
+  },
+  "productDetails": {
+    "title": "Detalles del Producto",
+    "description": "Descripción",
+    "hide": "Ocultar",
+    "showAll": "Mostrar Todo",
+    "addtoCart": "Añadir al Carrito",
+    "addedtoCart": "¡Añadido al carrito!",
+    "comment": "Comentario",
+    "star": "Estrella",
+    "loadMore": "Cargar más comentarios"
+  },
+  "main": {
+    "title1": "¡Los Productos Más Trendy Aquí!",
+    "description1": "Ofertas especiales para ti, disponibles solo mientras haya existencias. \n¡Descúbrelos ahora!",
+    "title2": "Compra Ahora, 50% de Descuento",
+    "description2": "¡No te pierdas esta oferta! Solo esta semana.",
+    "title3": "Moda del Nuevo Año",
+    "description3": "Los productos más elegantes del año te esperan aquí. \n¡Vamos de compras!",
+    "skip": "Saltar",
+    "started": "Empecemos a Comprar"
+  },
+  "category": {
+    "title": "Categorías",
+    "welcome": "¡Bienvenido!",
+    "description": "Elige tu café y disfrútalo",
+    "started": "Empecemos",
+    "phone": "Teléfono",
+    "television": "Televisión",
+    "homeAppliances": "Electrodomésticos",
+    "shoes": "Zapatos",
+    "camera": "Cámara",
+    "computer": "Computadora",
+    "whiteGoods": "Electrodomésticos Grandes"
+  },
+  "general": {
+    "all": "Todos"
+  }
+}

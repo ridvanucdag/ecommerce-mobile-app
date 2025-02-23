@@ -1,0 +1,93 @@
+import {StyleSheet} from 'react-native';
+
+export const styles = StyleSheet.create({
+  tabContainer: {
+    flexDirection: 'row',
+    height: 60,
+    backgroundColor: 'white',
+    elevation: 2,
+    shadowColor: 'black',
+    shadowOpacity: 0.1,
+    shadowOffset: {width: 0, height: 2},
+    shadowRadius: 2,
+  },
+  tabBar: {
+    flexDirection: 'row',
+    flex: 1,
+    justifyContent: 'space-around',
+    alignItems: 'center',
+  },
+  tabItem: {
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+
+  backCircle: {
+    position: 'absolute',
+    top: -35,
+    left: '52.5%',
+    transform: [{translateX: -37.5}],
+    width: 75,
+    height: 75,
+    borderRadius: 75 / 2,
+    alignItems: 'center',
+    justifyContent: 'center',
+    shadowColor: '#000',
+    shadowOffset: {width: 0, height: 2},
+    shadowOpacity: 0.3,
+    shadowRadius: 5,
+    elevation: 5,
+  },
+  backCircleLang:{
+    left: '49%',
+  },
+  whiteCircle: {
+    position: 'absolute',
+    top: 7.5,
+    backgroundColor: 'white',
+    width: 65,
+    height: 65,
+    borderRadius: 65 / 2,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  whiteCircleBorder: {
+    borderColor: '#007AFF',
+    borderWidth: 1,
+  },
+  redCircle: {
+    position: 'absolute',
+    top: 5,
+    backgroundColor: 'red',
+    width: 55,
+    height: 55,
+    borderRadius: 55 / 2,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  redCircleBorder: {
+    top: 4,
+  },
+  cartText: {
+    color: 'white',
+    fontSize: 14,
+    fontWeight: 'bold',
+    textAlign: 'center',
+  },
+  cartLengthContainer: {
+    position: 'absolute',
+    top: 23,
+    left: '58%',
+    backgroundColor: 'white',
+    borderRadius: 10,
+    paddingHorizontal: 3,
+    paddingVertical: 1,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  cartLengthText: {
+    color: 'red',
+    fontSize: 10,
+    fontWeight: 'bold',
+  },
+});

@@ -1,0 +1,100 @@
+{
+  "home": {
+    "title": "Home",
+    "welcomeMessage": "Welcome to our coffee shop!",
+    "advantageousProducts": "Popular Advantageous Products",
+    "bestSellers": "Best Sellers",
+    "influencer": "Influencer Shares",
+    "flashCampaings": "Flash Campaigns",
+    "featuredProducts": "Featured Products"
+  },
+  "favorite": {
+    "title": "Favorites",
+    "favoriteCoffees": "My Favorite Coffees",
+    "emptyMessage": "No favorite products found.",
+    "added": "Coffee added to favorites.",
+    "removed": "Coffee removed from favorites."
+  },
+  "basket": {
+    "title": "My Basket",
+    "emptyMessage": "Your basket is empty.",
+    "delivery": "My Delivery Address",
+    "cartSummary": "Cart Summary",
+    "cartFee": "Cart Fee:",
+    "courierFee": "Courier Fee:",
+    "discount": "Discount:",
+    "totalFee": "Total Fee:",
+    "completeOrder": "Complete Order",
+    "removeItem": "Coffee removed from the basket.",
+    "checkout": "Complete Payment",
+    "recommenderTitle": "Special for You"
+  },
+  "profile": {
+    "title": "Profile",
+    "accountInfo": "Account Information",
+    "myOrders": "My Orders",
+    "addressBook": "Address Book",
+    "paymentMethods": "Payment Methods",
+    "faq": "Frequently Asked Questions",
+    "settings": "Settings",
+    "logout": "Log Out"
+  },
+  "filter": {
+    "desc": "Sorting",
+    "price": "Lowest Price",
+    "priceDesc": "Highest Price",
+    "alphabet": "Alphabetical Order (A-Z)",
+    "alphabetz": "Alphabetical Order (Z-A)",
+    "product": "Product",
+    "all": "All",
+    "evaluationScore": "Evaluation Score",
+    "star": "star and above",
+    "minimumAmount": "Minimum Basket Amount",
+    "button": "Apply Filter"
+  },
+  "search": {
+    "title": "Search",
+    "product": "Product",
+    "placeholder": "Search product or brand",
+    "empty": "No products matching your search.",
+    "empty2": "No product found.",
+    "loading": "Loading.."
+  },
+  "productDetails": {
+    "title": "Product Details",
+    "description": "Description",
+    "hide": "Hide",
+    "showAll": "Show All",
+    "addtoCart": "Add to Cart",
+    "addedtoCart": "added to cart!",
+    "comment": "Comment",
+    "star": "Star",
+    "loadMore": "Load more comments"
+  },
+  "main": {
+    "title1": "The Trendiest Products Are Here!",
+    "description1": "Special offers just for you, limited stock. \nExplore now!",
+    "title2": "Buy Now, 50% Off",
+    "description2": "Don’t miss this opportunity! Valid only this week.",
+    "title3": "Fashion of the New Year",
+    "description3": "The most stylish products of the year are waiting for you. \nLet’s shop!",
+    "skip": "Skip",
+    "started": "Let’s Start Shopping"
+  },
+  "category": {
+    "title": "Categories",
+    "welcome": "Welcome!",
+    "description": "Choose your coffee and enjoy",
+    "started": "Let’s Start",
+    "phone": "Phone",
+    "television": "Television",
+    "homeAppliances": "Home Appliances",
+    "shoes": "Shoes",
+    "camera": "Camera",
+    "computer": "Computer",
+    "whiteGoods": "White Goods"
+  },
+  "general": {
+    "all": "All"
+  }
+}
